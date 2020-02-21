@@ -6,7 +6,7 @@ require 'pry'
 
 
 
-  def shipping_manifest()
+  def shipping_manifest(list)
     the_manifest = {"whale_bone_corsets" => 5, "oil_paintings" => 3, "porcelain_vases" => 2 }
   end
 
