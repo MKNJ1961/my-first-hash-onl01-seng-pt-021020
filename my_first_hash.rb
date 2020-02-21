@@ -1,4 +1,7 @@
+require "pry'"
+
   def my_hash()
+    binding.pry
     pets = {"cat" => "Boots", "dog" => "Fido"}
   end
 
