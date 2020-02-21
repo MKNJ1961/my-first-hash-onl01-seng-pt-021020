@@ -3,7 +3,7 @@ require 'pry'
   def my_hash()
     pets = {"cat" => "Boots", "dog" => "Fido"}
   end
-  end
+end
 
 
 #   def shipping_manifest()
