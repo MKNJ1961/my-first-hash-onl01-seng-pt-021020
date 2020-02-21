@@ -4,6 +4,7 @@ require 'pry'
     binding.pry
     pets = {"cat" => "Boots", "dog" => "Fido"}
   end
+end
 
 
 #   def shipping_manifest()
