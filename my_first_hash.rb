@@ -7,7 +7,7 @@ require 'pry'
 
 
   def shipping_manifest()
-    the_manifest = {"whale bone corsets" => 5, "oil paintings" => 3, "porcelain vases" => 2}
+    the_manifest = {"whale bone corsets" => 2, "oil paintings" => 5, "porcelain vases" => 3}
   end
 
 
