@@ -6,7 +6,7 @@ require 'pry'
 
 
 
-  def shipping_manifest(hash)
+  def shipping_manifest()
     the_manifest = {"whale bone corsets" => 2, "oil paintings" => 5, "porcelain vases" => 3}
     return hash
   end
